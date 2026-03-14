@@ -21,4 +21,4 @@ pip install numpy
 
 ## Author
 Aniket Sharma
-AI and Data Science Trainer | Assistant Professor
+AI Trainer | Assistant Professor
